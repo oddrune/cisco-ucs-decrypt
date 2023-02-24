@@ -66,7 +66,7 @@ This is not the password I expected, but this text has capital letters and excla
 ./cisco-ucs-vigenere.py VagzjiodLkbtkclEzjozmayu!
 SecurityThroughObscurity!
 ```
-Not sure why this last step was added to some passwords, but I guess two hardcoded keys is better than one?
+Not sure why this last step was added to some passwords, but I guess two hardcoded keys are better than one?
 
 ## There is more
 The configuration backup I found was accompanied by a tar-file that unpacked to a set of files that seems to be encrypted
